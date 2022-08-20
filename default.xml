@@ -1111,9 +1111,5 @@
 
   <repo-hooks in-project="platform/tools/repohooks" enabled-list="pre-upload" />
 
-  <!-- Corvus OS Changes -->
-  <include name="snippets/remove.xml" />
-  <include name="snippets/corvus.xml" />
-  <include name="snippets/extras.xml" />
 
 </manifest>
